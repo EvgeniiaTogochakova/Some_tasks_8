@@ -2,13 +2,13 @@
 
 ##Задача 54 
 Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию элементы каждой строки двумерного массива. 
-[Code](ArrangeElementsInDescendingOrderInARow\Program.cs)
+[Code](https://github.com/EvgeniiaTogochakova/Some_tasks_8/blob/main/ArrangeElementsInDescendingOrderInARow/Program.cs)
 
 
 ##Задача 56
 Задайте прямоугольный двумерный массив. Напишите программу, которая будет находить строку с наименьшей суммой элементов.
-[Code](FindRowWithMinSumOfElements\Program.cs)
+[Code](https://github.com/EvgeniiaTogochakova/Some_tasks_8/blob/main/FindRowWithMinSumOfElements/Program.cs)
 
 ##Задача 60 
 Сформируйте трёхмерный массив из неповторяющихся двузначных чисел. Напишите программу, которая будет построчно выводить массив, добавляя индексы каждого элемента.
-[Code](3DArrayWithIndexes\Program.cs)
+[Code](https://github.com/EvgeniiaTogochakova/Some_tasks_8/blob/main/3DArrayWithIndexes/Program.cs)
